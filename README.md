@@ -12,12 +12,12 @@ Adds roll counter in the shop menu
 
 ## Installation
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646">
-    <img align="right" src="https://badgen.net/https/ostaszewski29.npkn.net/py-steam-subscribers-request/2937057646?icon=https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" hspace="50"/>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2954859575">
+    <img align="right" src="https://badgen.net/https/ostaszewski29.npkn.net/py-steam-subscribers-request/2954859575?icon=https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" hspace="50"/>
 </a>
 
 - Steam Workshop: 
-  - https://steamcommunity.com/sharedfiles/filedetails/?id=2937057646 
+  - https://steamcommunity.com/sharedfiles/filedetails/?id=2954859575 
 
 <a href="https://thunderstore.io/c/brotato/p/otDan/RollsLeft/">
     <img align="right" src="https://badgen.net/https/git-hub-badge-data.npkn.net/thunderstore-downloads-request/brotato/RollsLeft?icon=https://gcdn.thunderstore.io/static/ts/thunderstore-logomark-black.svg" hspace="50"/>
