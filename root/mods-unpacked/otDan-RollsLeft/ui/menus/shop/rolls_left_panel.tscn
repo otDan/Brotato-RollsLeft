@@ -1,0 +1,22 @@
+[gd_scene format=2]
+
+[node name="RollsLeft" type="PanelContainer"]
+margin_left = 1015.0
+margin_right = 1400.0
+margin_bottom = 82.0
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+margin_left = 7.0
+margin_top = 7.0
+margin_right = 378.0
+margin_bottom = 75.0
+custom_constants/margin_right = 12
+custom_constants/margin_left = 12
+
+[node name="Label" type="Label" parent="MarginContainer"]
+unique_name_in_owner = true
+margin_left = 12.0
+margin_top = 27.0
+margin_right = 359.0
+margin_bottom = 41.0
+text = "MENU_ROLLS_LEFT"

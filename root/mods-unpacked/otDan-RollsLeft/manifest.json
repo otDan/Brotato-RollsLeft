@@ -1,0 +1,17 @@
+{
+  "name": "RollsLeft",
+  "namespace": "otDan",
+  "version_number": "1.0.0",
+  "description": "Adds roll counter in the shop menu",
+  "website_url": "https://github.com/otDan/Brotato-RollsLeft",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [],
+      "authors": ["otDan"],
+      "compatible_mod_loader_version": "4.0.0",
+      "compatible_game_version": ["0.6.1.6"],
+      "config_defaults": {}
+    }
+  }
+}
