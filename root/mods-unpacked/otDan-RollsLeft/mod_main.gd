@@ -8,9 +8,9 @@ var translations_dir = ""
 var extensions_dir = ""
 
 
-func _init(mod_loader = ModLoader):
+func _init(_mod_loader = ModLoader):
 	ModLoaderUtils.log_info("Init", MOD_NAME)
-	self.mod_loader = mod_loader
+	mod_loader = _mod_loader
 
 	dir = mod_loader.UNPACKED_DIR + MOD_NAME + "/"
 	translations_dir = dir + "translations/"
@@ -29,7 +29,7 @@ func _install_translations()->void:
 	mod_loader.add_translation_from_resource(translations_dir + "rollsleft_translation.en.translation")
 
 
-func _physics_process(delta):
+func _physics_process(_delta):
 	_try_install_shop_extension()
 
 
